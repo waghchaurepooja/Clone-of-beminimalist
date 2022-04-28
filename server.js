@@ -1,7 +1,8 @@
 
-const app = require("./index");
+const app = require("./src/index");
 
-const Connectdb = require("./configs/db");
+// const Connectdb = require("./src/configs/db")
+const Connectdb = require("./src/configs/db");
 
 app.listen(5000, () =>
 {
