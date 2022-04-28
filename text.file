@@ -46,3 +46,24 @@ https://accounts.google.com/o/oauth2/v2/auth?
     <h1>Hello</h1>
 
  <% } %>
+
+create file --> Procfile
+Inside Procfile write which file we need to run like --> web: node server.js
+
+
+
+Install Heroku Cli
+https://devcenter.heroku.com/articles/heroku-cli
+
+Only in Command Prompt
+npm install -g heroku
+heroku --version
+heroku login --> enter
+heroku apps
+
+git init
+
+heroku git:remote -a clone-of-beminimalist
+
+git add .
+
