@@ -34,7 +34,7 @@ npm run server
 View in Browser
 
 ```
-go to http://localhost:5000/index
+go to http://localhost:5000
 ```
 
 <div style='page-break-after: always'></div>
