@@ -36,34 +36,34 @@ if(show.length == 0)
 
 function OurProductPage()
 {
-    window.location.href = "ourproduct.html";
+    window.location.href = "/ourproduct/mains";
 }
 function GoToHomePage()
 {
-    window.location.href = "index.html";
+    window.location.href = "/";
 }
 function MinimalistAddToCartPage()
 {
     console.log(1);
-    window.location.href = "cart.html";
+    window.location.href = "/cart";
 }
 function LoginSignUpPage()
 {
     console.log(1);
-    window.location.href = "login.html";
+    window.location.href = "/login";
 }
 function concernpage()
 {
-    window.location.href = "concern.html";
+    window.location.href = "/concern";
 }
 function knowleadgepage()
 {
-    window.location.href = "knowledge.html";
+    window.location.href = "/knowledge";
 }
 
 function TrackerOrder()
 {
-    window.location.href = "track.html";
+    window.location.href = "/track";
 }
 
 var Showing = JSON.parse(localStorage.getItem("MinimalistShow"));
@@ -102,7 +102,7 @@ else
             localStorage.setItem("MinimalistLogOut",JSON.stringify(LogOut));
             localStorage.setItem("MinimalistLoginName",JSON.stringify(LoginName));
             localStorage.setItem("MinimalistShow",JSON.stringify(show));
-            window.location.href = "login.html";
+            window.location.href = "/login";
         }
         else
         {
@@ -110,7 +110,7 @@ else
             
             //
             //alert("signup");
-            window.location.href = "signup.html";
+            window.location.href = "/signup";
         }
     }
 
@@ -119,11 +119,11 @@ else
         if(Loginname[Loginname.length-1] != "Login")
         {
         
-            window.location.href = "login.html";
+            window.location.href = "/login";
         }
         else
         {
-            window.location.href = "login.html";
+            window.location.href = "/login";
         }
     }
 
@@ -157,7 +157,7 @@ else
                 localStorage.setItem("MinimalistLoginName",JSON.stringify(LoginName));
                 localStorage.setItem("MinimalistShow",JSON.stringify(show));
                 //document.querySelector("#SignUp").
-                window.location.href = "account.html";
+                window.location.href = "/account";
             }
         });
         if(count == 0)

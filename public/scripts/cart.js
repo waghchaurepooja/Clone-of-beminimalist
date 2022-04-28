@@ -906,40 +906,40 @@
 //     document.querySelector("#myOverlay").style.display = "none";
 // }
 
-// function OurProductPage()
-// {
-//     window.location.href = "/ourproduct";
-// }
-// function GoToHomePage()
-// {
-//     window.location.href = "/index";
-// }
-// function MinimalistAddToCartPage()
-// {
-//     console.log(1);
-//     window.location.href = "/cart";
-// }
-// function LoginSignUpPage()
-// {
-//     console.log(1);
-//     window.location.href = "/login";
-// }
-// function concernpage()
-// {
-//     window.location.href = "/concern";
-// }
-// function knowleadgepage()
-// {
-//     window.location.href = "/knowledge";
-// }
-// function TrackerOrder()
-// {
-//     window.location.href = "/track";
-// }
-// function Update()
-// {
-//     window.location.href = "/cart";
-// }
+function OurProductPage()
+{
+    window.location.href = "/ourproduct";
+}
+function GoToHomePage()
+{
+    window.location.href = "/";
+}
+function MinimalistAddToCartPage()
+{
+    console.log(1);
+    window.location.href = "/cart";
+}
+function LoginSignUpPage()
+{
+    console.log(1);
+    window.location.href = "/login";
+}
+function concernpage()
+{
+    window.location.href = "/concern";
+}
+function knowleadgepage()
+{
+    window.location.href = "/knowledge";
+}
+function TrackerOrder()
+{
+    window.location.href = "/track";
+}
+function Update()
+{
+    window.location.href = "/cart";
+}
 function CheckOut()
 {
 

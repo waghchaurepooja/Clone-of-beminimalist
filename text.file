@@ -67,3 +67,6 @@ heroku git:remote -a clone-of-beminimalist
 
 git add .
 
+git push heroku master
+or
+git push heroku HEAD:master

@@ -197,11 +197,11 @@ function closeSearch()
 }
 function OurProductPage()
 {
-    window.location.href = "/ourproduct";
+    window.location.href = "/ourproduct/mains";
 }
 function GoToHomePage()
 {
-    window.location.href = "/index";
+    window.location.href = "/";
 }
 function MinimalistAddToCartPage()
 {

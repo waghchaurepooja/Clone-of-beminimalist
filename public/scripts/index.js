@@ -18,7 +18,7 @@ function OurProductPage()
 }
 function GoToHomePage()
 {
-    window.location.href = "/index";
+    window.location.href = "/";
 }
 function MinimalistAddToCartPage()
 {

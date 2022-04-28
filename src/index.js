@@ -62,7 +62,7 @@ app.use("/login", LoginController);
 app.use("/ourproduct", OurProductController);
 app.use("/knowledge", KnowledgeController);
 app.use("/logout", LogoutController);
-app.use("/index", IndexController);
+app.use("/", IndexController);
 app.use("/productdetails", ProductDetailsController);
 app.use("/cart", CartController);
 app.use("/userprofile", UserProfileController);

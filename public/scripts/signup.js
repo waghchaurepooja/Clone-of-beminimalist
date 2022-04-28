@@ -1,11 +1,11 @@
 
 function OurProductPage()
 {
-    window.location.href = "/ourproduct/main";
+    window.location.href = "/ourproduct/mains";
 }
 function GoToHomePage()
 {
-    window.location.href = "/index";
+    window.location.href = "/";
 }
 function MinimalistAddToCartPage()
 {
