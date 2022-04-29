@@ -14,17 +14,16 @@ In this project we have tried to make a clone of <a href="https://beminimalist.c
 
 ### <u>Deployed Link</u>
 
-Deployed using Netlify 
+Deployed using heroku 
 
-
- ```
+<a href="https://damp-cliffs-11671.herokuapp.com/">https://damp-cliffs-11671.herokuapp.com/</a>
 
 ### <u>Run Locally</u>
 
 Clone the project
 
 
-https://github.com/waghchaurepooja/Clone_of_Minimalist
+https://github.com/rahulr41180/Clone-of-beminimalist
 
 
 Install npm packages
@@ -42,8 +41,8 @@ npm run server
 View in Browser
 
 
-go to http://localhost:5000/index
-```
+go to http://localhost:5000
+
 
 <div style='page-break-after: always'></div>
 
@@ -112,5 +111,6 @@ https://drive.google.com/file/d/13RbV_cJWwRp8MebuPz4uKIAyWdFJ9FWR/view?usp=shari
 > <a href="https://chsverma7.medium.com/clone-of-beminimalist-co-including-frontend-backend-7cf352b5d652" target="_blank">Blog</a>
 
 ### <u>You can read more about our project on our blog : <a href="https://chsverma7.medium.com/clone-of-beminimalist-co-including-frontend-backend-7cf352b5d652" target="_blank">Clone of beminimalist.co</a> </u>
+
 
 # Thank You :sparkling_heart:
