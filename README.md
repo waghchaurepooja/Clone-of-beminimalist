@@ -21,9 +21,7 @@ Deployed using heroku
 ### <u>Run Locally</u>
 
 Clone the project
-
-
-https://github.com/rahulr41180/Clone-of-beminimalist
+https://github.com/waghchaurepooja/Clone-of-beminimalist
 
 
 Install npm packages
